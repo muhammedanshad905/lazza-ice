@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+}
+
+/*navbar*/
+
+.navbar{
+    background-color: #000;
+    height: 95px;
+}
+
+.navbar-nav a{
+    color: #ffff;
+    text-decoration: none;
+    padding-left: 20px;
+}
+
+.logo1{
+    width: 120px;
+}
+
+.icon1{
+    width: 23px;
+    height: 23px;
+    margin-left: 25px;
+    cursor: pointer;
+}
+
+.heading h1{
+    text-align: center;
+}
+
+.collapse{
+    margin-top: 15px;
+}
+
+/*content*/
+
+.img1,.img2,.img3,.img4,.img5,.img6,.img7,.img8,.img9{
+    inline-size: 100%;
+}
+
+/*footer*/
+
+.flogo1{
+    inline-size: 100%;
+}
+
+.footlogo{
+    inline-size:100%;
+}
+
+.row a{
+    text-align: center;
+}
+
+.text{
+    color: rgb(208, 168, 7);
+}
+
+.container-fluid3{
+    height: 80px;
+}
+
+.last{
+    cursor: pointer;
+}
